@@ -1,5 +1,5 @@
 # Ninja moncho
 
-Recolecta las figuras rosadas y evita las rojas.
+Recolecta las con bordes neon y evita tanto las rojas como el meteorito.
 
-Llega a 250 puntos antes que se termine el tiempo.
+Llega a 200 puntos antes que se termine el tiempo.
