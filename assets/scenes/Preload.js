@@ -17,7 +17,7 @@ preload(){
     this.load.image(REDTRIANGLE, "./assets/images/redTriangle.png");
    
 
-    this.load.image("win2", "./assets/images/Win2.png");
+    this.load.image("win2", "./assets/images/win2.png");
     this.load.image("gameOver", "./assets/images/GameOver.png");
 
 
